@@ -1,0 +1,15 @@
+{
+  "name": "ipdossier-roles",
+  "version": "0.1.0",
+  "author": "ipdossier",
+  "summary": "A roles module manages AWS instances",
+  "license": "N/A",
+  "source": "https://github.com/ipdossier/puppet-roles.git",
+  "project_page": "https://github.com/ipdossier/puppet-roles.git",
+  "issues_url": "https://github.com/ipdossier/puppet-roles/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
